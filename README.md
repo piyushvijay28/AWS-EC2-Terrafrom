@@ -1,2 +1,2 @@
 # AWS-EC2-Terrafrom
-using Terraform for create a AWS EC2 Instance
+Creat AWS EC2 insfracture using terraform
